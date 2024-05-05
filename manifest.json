@@ -1,0 +1,10 @@
+{
+    "name": "MJ15B",
+    "version_number": "0.1",
+    "website_url": "https://github.com/Helloomister/mj15b",
+    "description": "Adds a new moon (LLL)",
+    "dependencies": [
+	"IAmBatby-LethalLevelLoader-1.2.2",
+	"BepInEx-BepInExPack-5.4.2100"
+    ]
+}
